@@ -219,10 +219,36 @@ http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45439
 
 https://ok.ru/video/5485817372231
 
+#EXTINF:-1 tvg-chno="56",RT
 
+http://177.53.152.186:8000/play/a017/index.m3u8
 
+#EXTINF:-1 tvg-chno="57",SAZON TV
 
+http://177.53.152.186:8000/play/a014/index.m3u8
 
+#EXTINF:-1 tvg-chno="58",M&S MUNDO Y SABOR
 
+http://177.53.152.186:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-chno="59" ,PIURA TV
+
+http://177.53.152.186:8000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-chno="60" ,MX CLASSIC
+
+http://177.53.152.186:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-chno="61" ,MX PRIME
+
+http://177.53.152.186:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-chno="62" ,MX FAMILY
+
+http://177.53.152.186:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-chno="63" ,FIT TV
+
+http://177.53.152.186:8000/play/a018/index.m3u8
 
 
