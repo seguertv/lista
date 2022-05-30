@@ -5,7 +5,7 @@ http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1349
 
 #EXTINF:-1 tvg-chno="2",LATINA
 
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1327
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1334
 
 #EXTINF:-1 tvg-chno="3",TV PERU NOTICIAS
 
@@ -13,11 +13,11 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/d/5/csm_2031-205_import_96416e9d92.png",AMERICA
 
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1328
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1326
 
 #EXTINF:-1 tvg-chno="5",PANAMERICANA
 
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1330
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1355
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="http://boxdigital.xyz:8080/images/fe3838c7c11aa406dd956566e17360d5.png",RPP NOTICIAS
 
@@ -48,7 +48,7 @@ http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1335
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-name="RED GLOBAL" tvg-logo="http://boxdigital.xyz:8080/images/fe3838c7c11aa406dd956566e17360d5.png" group-title="Peru",RED GLOBAL
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1361
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1362
 
 #EXTINF:-1 tvg-chno="14",GOL PERU
 
@@ -76,7 +76,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d800078
 
 #EXTINF:-1 tvg-chno="20",CHICO IPE
 
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/1341
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/85
 
 #EXTINF:-1 tvg-chno="21",DISCOVERY KIDS
 
@@ -100,7 +100,7 @@ http://francotv.ml:25461/ismael/FdLMdz5FfyYv/168
 
 #EXTINF:-1 tvg-chno="26",FX
 
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/166
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/167
 
 #EXTINF:-1 tvg-chno="27",SONY
 
@@ -112,7 +112,7 @@ http://francotv.ml:25461/ismael/FdLMdz5FfyYv/194
 
 #EXTINF:-1 tvg-chno="29",CINE CANAL
 
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/164
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/188
 
 #EXTINF:-1 tvg-chno="30",HBO
 
@@ -152,7 +152,7 @@ http://francotv.ml:25461/ismael/FdLMdz5FfyYv/117
 
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://i.pinimg.com/564x/2e/b4/5d/2eb45d9d2e60d16075a8e753bf7df540.jpg",LA ROSA DE GUADALUPE 24/7
 
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/709
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/812
 
 #EXTINF:-1 tvg-chno="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png",EL CHAVO 24/7
 
@@ -167,7 +167,7 @@ http://francotv.ml:25461/ismael/FdLMdz5FfyYv/683
 http://francotv.ml:25461/ismael/FdLMdz5FfyYv/715
 
 #EXTINF:-1 tvg-chno="43" tvg-name="24/7 | Animaniacs" tvg-logo="http://boxdigital.xyz:8080/images/64b52890dcc820b12dfc42445973eaec.jpg" group-title="24/7",24/7 | Animaniacs
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/662
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/675
 
 #EXTINF:-1 tvg-chno="44" tvg-name="24/7 | El show de los Looney Tunes" tvg-logo="http://198.27.70.63:8080/images/ee7dad0bb4fb5db06ae8454679ac94d1.png" group-title="24/7",24/7 | El show de los Looney Tunes
 http://francotv.ml:25461/ismael/FdLMdz5FfyYv/691
@@ -178,7 +178,7 @@ http://francotv.ml:25461/ismael/FdLMdz5FfyYv/207
 
 #EXTINF:-1 tvg-chno="46",TELEMUNDO
 
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/93
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/203
 
 #EXTINF:-1 tvg-chno="47",BHTV
 
@@ -224,9 +224,6 @@ http://francotv.ml:25461/ismael/FdLMdz5FfyYv/63
 
 http://francotv.ml:25461/ismael/FdLMdz5FfyYv/66
 
-#EXTINF:-1 tvg-chno="58" tvg-name="CNN Internacional" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="Noticias",CNN Internacional
-http://francotv.ml:25461/ismael/FdLMdz5FfyYv/231
-
 #EXTINF:-1 tvg-chno="59" tvg-name="CNN En Español" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="Noticias",CNN En Español
 http://francotv.ml:25461/ismael/FdLMdz5FfyYv/232
 
@@ -246,17 +243,17 @@ http://177.53.152.186:8000/play/a014/index.m3u8
 
 http://177.53.152.186:8000/play/a009/index.m3u8
 
-#EXTINF:-1 tvg-chno="64" ,MX CLASSIC
+#EXTINF:-1 tvg-chno="64" tvg-logo="http://boxdigital.xyz:8080/images/daea1a007ed18a34901f1ea896238fc3.png",FUTURAMA 24/7
 
-http://177.53.152.186:8000/play/a004/index.m3u8
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/761
 
-#EXTINF:-1 tvg-chno="65" ,MX PRIME
+#EXTINF:-1 tvg-chno="65" ,SOUTH PARK 24/7
 
-http://177.53.152.186:8000/play/a001/index.m3u8
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/800
 
-#EXTINF:-1 tvg-chno="66" ,MX FAMILY
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/La-familia-peluche-620x345.jpg/revision/latest?cb=20210429204350&path-prefix=es",LA FAMILIA PELUCHE 24/7
 
-http://177.53.152.186:8000/play/a002/index.m3u8
+http://francotv.ml:25461/ismael/FdLMdz5FfyYv/826
 
 #EXTINF:-1 tvg-chno="67" ,FIT TV
 
@@ -265,3 +262,4 @@ http://177.53.152.186:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-chno="68" ,DW
 
 http://francotv.ml:25461/ismael/FdLMdz5FfyYv/243
+
